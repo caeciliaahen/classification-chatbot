@@ -1,0 +1,21 @@
+nasal_discharge,skin_lesions,sneezing,animal_type,fever,lameness,wool_issue,lethargy,diarrhea,labored_breathing,age,reduced_mobility,dehydration,duration,weight_loss,milk_yield_issue,pet_name,diagnosis,timestamp
+1,10,2,1,0,0,1,1,0,0,1,0,0,1,1,0,Kiko,Bacterial Infection,2025-05-31T15:48:06.553771
+1,9,2,0,1,0,0,1,1,0,0,1,0,1,1,0,Kiko,infeksi virus,2025-05-31T16:06:53.407489
+1,8,10,0,1,0,0,0,1,1,1,1,0,0,1,0,Kiko,infeksi virus,2025-05-31T16:10:49.496511
+1,8,3,0,0,0,1,1,1,1,0,0,0,0,1,0,Mika Ana,Kiko,infeksi virus,2025-05-31T21:03:59.671478
+1,5,4,1,0,0,1,0,0,1,1,1,0,0,0,0,Mika Ana,Kiko,infeksi virus,2025-05-31T21:06:48.757643
+1,0,4,0,0,1,1,0,0,0,0,0,0,0,1,1,Ana Mika,Kiko,infeksi virus,2025-05-31T21:22:52.392071
+1,0,4,0,0,0,1,1,0,0,0,1,0,1,1,0,Ana Mika,Kiko,infeksi virus,2025-05-31T21:25:09.696404
+1,9,9,0,0,1,1,0,0,0,0,0,0,1,1,1,Anam Mika,Kiko,infeksi virus,2025-05-31T22:14:50.429960
+1,0,5,0,0,1,1,0,1,1,0,0,1,1,0,0,Ana Mika,Kiko,infeksi virus,2025-05-31T23:50:01.715181
+1,8,10,0,0,0,1,1,1,0,0,0,1,1,1,0,Ana Mika,Kiko,infeksi virus,2025-06-01T00:15:32.032715
+1,10,9,0,0,0,0,1,0,0,0,0,0,0,0,0,Mika Ana,Kiko,penyakit klinis,2025-06-01T00:16:58.439209
+3,4,4,0,0,1,1,0,0,1,1,1,0,0,0,0,Ana Mika,Kola,infeksi virus,2025-06-01T00:31:11.649481
+3,8,10,0,0,1,0,0,0,1,0,0,0,1,0,1,Ana Miko,Mika,penyakit klinis,2025-06-01T00:47:15.378586
+3,8,3,0,0,1,1,1,0,0,0,1,1,0,1,0,Ana Mika,Kola,penyakit klinis,2025-06-01T00:52:58.405826
+3,4,3,0,0,0,0,1,0,0,1,0,1,1,1,0,Ana Mika,Kola,infeksi virus,2025-06-01T01:09:14.715061
+3,7,8,0,0,0,1,1,0,0,0,0,0,1,0,0,Ana Mika,Kola,infeksi bakteri,2025-06-01T01:15:47.809568
+3,8,4,0,0,1,1,0,0,0,1,1,0,0,0,0,Ana Mika,Kola,infeksi virus,2025-06-01T01:21:53.834894
+3,7,6,0,0,1,0,0,0,1,1,1,0,0,0,0,Ana Mika,Kola,infeksi virus,2025-06-01T01:24:38.561169
+3,8,8,0,0,0,1,0,0,0,0,1,0,0,0,0,Ana Mika,Kola,infeksi bakteri,2025-06-01T01:33:37.415964
+1,0,7,0,0,1,1,0,1,1,0,0,1,1,0,0,,Kiko,infeksi virus,2025-06-02T21:55:25.983030
